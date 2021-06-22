@@ -1,2 +1,2 @@
-# S_SOLID_Principle
+# SOLID_S_Principle
  SingleResponsibilityPrincipleDemo
